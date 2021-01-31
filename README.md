@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Stéphane - aka [Stouf][website] 👋
 
-[![NewVoc](https://img.shields.io/website?label=newvoc.stouf.fr&style=for-the-badge&url=https%3A%2F%2Fsraccah.com)](https://newvoc.stouf.fr)
+[![NewVoc](https://img.shields.io/website?label=newvoc.stouf.fr&style=for-the-badge&url=https%3A%2F%2Fsraccah.com)](http://newvoc.stouf.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sraccah?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsraccah&screen_name=_sraccah)
 
 ## I'm a Developer, Mentor and 42 Lover!
 
 - ✈️ Work all around the world, living in Spain 🇪🇸
+- 🔊 Creator of NewVoc Discord Bot [NewVoc](http://newvoc.stouf.fr/)
 - 🔭 I'm creating my first course: [Learn to learn!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
