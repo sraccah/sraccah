@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sraccah?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsraccah&screen_name=_sraccah)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sraccah.sraccah)
 [![Github](https://img.shields.io/github/followers/sraccah?label=Follow&style=social)](https://github.com/sraccah)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraccah&theme=tokyonight)
 
 ## I'm a Developer, Mentor and 42 Lover!
 
@@ -30,6 +29,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and keep avoiding viruses 🤣
 - ⚡ Fun fact: I love magic and music
+
+### Most used languages!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraccah&theme=tokyonight)
 
 ### Connect with me:
 
