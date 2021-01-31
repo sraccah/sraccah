@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="sraccah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][[website](https://github.com/sraccah)]
-[<img align="left" alt="sraccah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="sraccah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][[twitter](https://twitter.com/_sraccah)]
-[<img align="left" alt="sraccah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/stephane-raccah/)]
-[<img align="left" alt="sraccah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][[instagram](https://www.instagram.com/42madridftef/)]
+[<img align="left" alt="sraccah.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/sraccah)
+[<img align="left" alt="sraccah | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube)
+[<img align="left" alt="sraccah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_sraccah)
+[<img align="left" alt="sraccah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/stephane-raccah/)
+[<img align="left" alt="sraccah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/42madridftef/)
 
 <br />
 
