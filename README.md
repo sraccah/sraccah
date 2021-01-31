@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [![NewVoc](https://img.shields.io/website?label=newvoc&style=for-the-badge&url=http%3A%2F%2Fnewvoc.stouf.fr)](http://newvoc.stouf.fr/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_sraccah?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsraccah&screen_name=_sraccah)
+![](https://visitor-badge.laobi.icu/badge?page_id=sraccah.sraccah)
+[![Github](https://img.shields.io/github/followers/sraccah?label=Follow&style=social)](https://github.com/sraccah)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sraccah&theme=tokyonight)
 
 ## I'm a Developer, Mentor and 42 Lover!
 
