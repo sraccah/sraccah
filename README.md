@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Stéphane - aka [Stouf][website] 👋
+# Hi there 👋 I'm Stéphane - aka [Stouf][website] 🚀
 
 [![Github](https://img.shields.io/github/followers/sraccah?label=Follow&style=social)](https://github.com/sraccah)
 ![](https://visitor-badge.laobi.icu/badge?page_id=sraccah.sraccah)
