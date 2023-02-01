@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## I'm a Developer, Mentor and 42 Lover!
 
 - ✈️ Work all around the world, living in Spain 🇪🇸
-- 🔊 Creator of NewVoc Discord Bot [NewVoc](http://newvoc.stouf.fr/)
+- 🔊 Creator of Discord Bots, like, NewVoc and Jarvib [NewVoc] (http://newvoc.stouf.fr/)
 - 🔭 I'm creating my first course: [Learn to learn!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
