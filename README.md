@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I'm creating my first course: [Learn to learn!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Increase my Github Stats and keep avoiding viruses 🤣
+- 🥅 2025 Goals: Increase my Github Stats and collaborate in open source projects
 - ⚡ Fun fact: I love magic and music
 
 ### Most used languages!
